@@ -1,0 +1,4 @@
+[INFO:2021-05-23 22:16:09.981277] : log initiated
+[INFO:2021-05-23 22:41:13.166965] : log initiated
+[INFO:2021-05-23 22:41:39.810974] : log initiated
+[INFO:2021-05-23 22:41:39.813105] : GloVe model loaded
